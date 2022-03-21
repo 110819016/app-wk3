@@ -4,19 +4,19 @@
       "id": "one",
       "name": "Fashionopolis",
       "artist": "Dana Thomas",
-      "image": "https://i.stack.imgur.com/HCeEO.png"
+      "image": "https://github.com/110819016/app-wk3/blob/main/src/resource/img_book_fashinopolis.png?raw=true"
     },
     {
       "id": "two",
       "name": "Chanel",
       "artist": "Patrick Mauriès",
-      "image": "../resource/img_book_chanel.png"
+      "image": "https://github.com/110819016/app-wk3/blob/main/src/resource/img_book_chanel.png?raw=true"
     },
     {
       "id": "three",
       "name": "Calligraphy",
       "artist": "June & Lucy",
-      "image": "../resource/img_book_calligraphy.png"
+      "image": "https://github.com/110819016/app-wk3/blob/main/src/resource/img_book_calligraphy.png?raw=true"
     }
   ],
   "Newest" : [
@@ -24,19 +24,19 @@
       "id": "four",
       "name": "Yves Saint Laurent",
       "artist": "Suzy Menkes",
-      "image": "../resource/img_book_ysl.png"
+      "image": "https://github.com/110819016/app-wk3/blob/main/src/resource/img_book_ysl.png?raw=true"
     },
     {
       "id": "five",
       "name": "The Book of Signs",
       "artist": "Rudolf Koch",
-      "image": "../resource/img_book_tbos.png"
+      "image": "https://github.com/110819016/app-wk3/blob/main/src/resource/img_book_tbos.png?raw=true"
     },
     {
       "id": "six",
       "name": "Stitched Up",
       "artist": "Tansy E. Hoskins",
-      "image": "../resource/img_book_stitchedup.png"
+      "image": "https://github.com/110819016/app-wk3/blob/main/src/resource/img_book_stitchedup.png?raw=true"
     }
   ]
 }
